@@ -1,2 +1,2 @@
-# curso-cypress
+# cypress
 Testes automatizados com Cypress
